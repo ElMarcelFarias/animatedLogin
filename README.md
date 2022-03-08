@@ -1,6 +1,6 @@
 # animatedLogin
 
-Tela de Login e Cadastro animada e responsiva, com tags semânticas do HTML5 
+Tela de Login e Cadastro animada e responsiva, com tags semânticas do HTML5 <br>
 Projeto realizado com as tecnologias (HTML5, CSS3, JavaScript)
 
 screen (1/4)
